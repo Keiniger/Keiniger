@@ -14,7 +14,7 @@ I'm a 22 year old Full Stack developer. I love learning new technologies and pro
 ### 🏭 [GEOC](https://geoc.netlify.app/)
   - A UI for registry management
 ### 💸 [Moneylog](https://moneylog-tracker.netlify.app/)
-  - Minimalist expense tracker for your daily expenditures written with the React framework
+  - Minimalist expense tracker for your daily expenditures written with the React framework.
 ### 🍕 [Foodies](https://foodies-delivery.netlify.app/)
   - A simple but elegant food delivery UI made entirely with the React framwork :)
 
