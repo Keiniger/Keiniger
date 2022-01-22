@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### 📄 [Check out my rèsumè!](https://keiniger.netlify.app/)
+### 📄 [Check out my online résumé!](https://keiniger.netlify.app/)
 
 I'm a 22 year old Full Stack developer. I love learning new technologies and problem solving. I'm interested in cryptocurrencies, blockchain technologies, smart contracts, functional programming and machine learning. Currently, I'm in my fourth year at Universidad Tecnológica Nacional, and my major is Computer Science.
 
